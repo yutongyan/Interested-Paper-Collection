@@ -1,9 +1,9 @@
 # Interested Paper Collection
 
-## Multi-agent Reinforcement Learning
+### Multi-agent Reinforcement Learning
 
-## Reinforcement Learning Informed by Natural Language
+### Reinforcement Learning Informed by Natural Language
 
-## Hierarchical Reinforcement Learning
+### Hierarchical Reinforcement Learning
 
 
