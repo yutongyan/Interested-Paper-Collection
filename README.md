@@ -9,4 +9,7 @@
 
 ### Hierarchical Reinforcement Learning
 
+### Language learning through Multi-agent Communication
+* [Multi-Agent Cooperation and the Emergence of (Natural) Language](https://arxiv.org/abs/1612.07182) by Angeliki Lazaridou et al., 2017
+
 
