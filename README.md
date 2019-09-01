@@ -11,6 +11,7 @@
 ### Hierarchical Reinforcement Learning
 
 ### Language learning through Multi-agent Communication
+* [Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning](http://openaccess.thecvf.com/content_iccv_2017/html/Das_Learning_Cooperative_Visual_ICCV_2017_paper.html) by Abhishek Das et al., 2017
 * [Multi-Agent Cooperation and the Emergence of (Natural) Language](https://arxiv.org/abs/1612.07182) by Angeliki Lazaridou et al., 2017
 
 
