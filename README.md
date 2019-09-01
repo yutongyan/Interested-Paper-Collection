@@ -3,6 +3,7 @@
 ### Multi-agent Reinforcement Learning
 * [A Review of Cooperative Multi-Agent Deep Reinforcement Learning](https://arxiv.org/abs/1908.03963) by Afshin OroojlooyJadid et al., 2019
 * [Multi-Agent Generative Adversarial Imitation Learning](https://arxiv.org/abs/1612.07182) by Jiaming Song et al., 2018
+* [Learning with Opponent-Learning Awareness](https://arxiv.org/abs/1709.04326) by Jakob N. Foerster et al., 2018
 * [Counterfactual Multi-Agent Policy Gradients](https://arxiv.org/abs/1705.08926) by Jakob Foersteret et al., 2017
 
 ### Reinforcement Learning Informed by Natural Language
