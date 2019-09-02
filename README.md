@@ -17,6 +17,7 @@
 ### Hierarchical Reinforcement Learning
 
 ### Language learning through Multi-agent Communication
+* [TarMAC: Targeted Multi-Agent Communication](https://arxiv.org/abs/1810.11187) by Abhishek Das et al., 2019
 * [Emergent Translation in Multi-Agent Communication](https://arxiv.org/abs/1710.06922) by Jason Lee et al., 2018
 * [Emergence of Grounded Compositional Language in Multi-Agent Populations](https://arxiv.org/abs/1703.04908) by Igor Mordatch et al., 2018
 * [Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols](http://papers.nips.cc/paper/6810-emergence-of-language-with-multi-agent-games-learning-to-communicate-with-sequences-of-symbols) by et al., 2017
