@@ -1,6 +1,7 @@
 # Interested Paper Collection
 
 ### Multi-agent Reinforcement Learning
+* [Actor-Attention-Critic for Multi-Agent Reinforcement Learning](http://proceedings.mlr.press/v97/iqbal19a/iqbal19a.pdf) by Shariq Iqbal et al., 2019
 * [Learning to Interactively Learn and Assist](https://arxiv.org/abs/1906.10187) by Mark Woodward et al., 2019
 * [Evolutionary Reinforcement Learning for Sample-Efficient Multiagent Coordination](https://arxiv.org/abs/1906.07315) by Shauharda Khadka et al., 2019
 * [Is multiagent deep reinforcement learning the answer or the question? A brief survey](https://arxiv.org/abs/1810.05587) by Pablo Hernandez-Leal et al., 2019
