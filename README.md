@@ -17,6 +17,7 @@
 * [Multi-Agent Cooperation and the Emergence of (Natural) Language](https://arxiv.org/abs/1612.07182) by Angeliki Lazaridou et al., 2017
 
 ### Multi-agent Reinforcement Learning and Game Theory
+* [Actor-Critic Policy Optimization in Partially Observable Multiagent Environments](http://papers.nips.cc/paper/7602-actor-critic-policy-optimization-in-partially-observable-multiagent-environments) by Sriram Srinivasan et al., 2018
 * [Learning with Opponent-Learning Awareness](https://arxiv.org/abs/1709.04326) by Jakob N. Foerster et al., 2018
 * [A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning](http://papers.nips.cc/paper/7007-a-unified-game-theoretic-approach-to-multiagent-reinforcement-learning) by Marc Lanctot et al., 2017
 
