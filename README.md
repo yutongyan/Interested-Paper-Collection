@@ -1,6 +1,7 @@
 # Interested Paper Collection
 
 ### Multi-agent Reinforcement Learning
+* [Feudal Multi-Agent Hierarchies for Cooperative Reinforcement Learning](https://arxiv.org/abs/1901.08492) by Sanjeevan Ahilan, et al., 2019
 * [Multi-Agent Adversarial Inverse Reinforcement Learning](http://proceedings.mlr.press/v97/yu19e/yu19e.pdf) by Lantao Yu et al., 2019
 * [Actor-Attention-Critic for Multi-Agent Reinforcement Learning](http://proceedings.mlr.press/v97/iqbal19a/iqbal19a.pdf) by Shariq Iqbal et al., 2019
 * [Learning to Interactively Learn and Assist](https://arxiv.org/abs/1906.10187) by Mark Woodward et al., 2019
@@ -15,7 +16,8 @@
 ### Reinforcement Learning Informed by Natural Language
 * [A Survey of Reinforcement Learning Informed by Natural Language](https://arxiv.org/abs/1906.03926) by Jelena Luketina et al., 2019
 
-### Hierarchical Reinforcement Learning
+### Hierarchical Multi-Agent Reinforcement Learning
+* [Hierarchical multi-agent reinforcement learning](https://link.springer.com/article/10.1007/s10458-006-7035-4) by Mohammad Ghavamzadeh et al., 2006
 
 ### Language learning through Multi-agent Communication
 * [TarMAC: Targeted Multi-Agent Communication](https://arxiv.org/abs/1810.11187) by Abhishek Das et al., 2019
