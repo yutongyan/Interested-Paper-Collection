@@ -24,6 +24,8 @@
 Communication Neural Network in Decentralized
 Multi-Robot Exploration](https://pdfs.semanticscholar.org/5d3c/1d601452caa5d4a1f92abd25d2e39e83fafb.pdf) by Mingyang Geng et al., 2019
 * [TarMAC: Targeted Multi-Agent Communication](https://arxiv.org/abs/1810.11187) by Abhishek Das et al., 2019
+* [Learning Attentional Communication for
+Multi-Agent Cooperation](https://papers.nips.cc/paper/7956-learning-attentional-communication-for-multi-agent-cooperation.pdf) by Jiechuan Jiang et al., 2018
 * [Emergent Translation in Multi-Agent Communication](https://arxiv.org/abs/1710.06922) by Jason Lee et al., 2018
 * [Emergence of Grounded Compositional Language in Multi-Agent Populations](https://arxiv.org/abs/1703.04908) by Igor Mordatch et al., 2018
 * [Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols](http://papers.nips.cc/paper/6810-emergence-of-language-with-multi-agent-games-learning-to-communicate-with-sequences-of-symbols) by et al., 2017
