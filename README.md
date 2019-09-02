@@ -21,6 +21,7 @@
 * [Hierarchical multi-agent reinforcement learning](https://link.springer.com/article/10.1007/s10458-006-7035-4) by Mohammad Ghavamzadeh et al., 2006
 
 ### Cooperative Multi-agent through Communication
+* [Learning to Schedule Communication in Multi-agent Reinforcement Learning](https://openreview.net/pdf?id=SJxu5iR9KQ) by Daewoo Kim et al., 2019
 * [Learning to Cooperate via an Attention-Based
 Communication Neural Network in Decentralized
 Multi-Robot Exploration](https://pdfs.semanticscholar.org/5d3c/1d601452caa5d4a1f92abd25d2e39e83fafb.pdf) by Mingyang Geng et al., 2019
