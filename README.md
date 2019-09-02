@@ -1,6 +1,7 @@
 # Interested Paper Collection
 
 ### Multi-agent Reinforcement Learning
+* [M3RL: Mind-aware Multi-agent Management Reinforcement Learning](https://arxiv.org/abs/1810.00147) by Tianmin Shu et al., 2019
 * [Feudal Multi-Agent Hierarchies for Cooperative Reinforcement Learning](https://arxiv.org/abs/1901.08492) by Sanjeevan Ahilan, et al., 2019
 * [Multi-Agent Adversarial Inverse Reinforcement Learning](http://proceedings.mlr.press/v97/yu19e/yu19e.pdf) by Lantao Yu et al., 2019
 * [Actor-Attention-Critic for Multi-Agent Reinforcement Learning](http://proceedings.mlr.press/v97/iqbal19a/iqbal19a.pdf) by Shariq Iqbal et al., 2019
