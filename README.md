@@ -1,6 +1,7 @@
 # Interested Paper Collection
 
 ### Multi-agent Reinforcement Learning
+* [Learning to Interactively Learn and Assist] by Mark Woodward et al., 2019
 * [Evolutionary Reinforcement Learning for Sample-Efficient Multiagent Coordination](https://arxiv.org/abs/1906.07315) by Shauharda Khadka et al., 2019
 * [Is multiagent deep reinforcement learning the answer or the question? A brief survey](https://arxiv.org/abs/1810.05587) by Pablo Hernandez-Leal et al., 2019
 * [A Review of Cooperative Multi-Agent Deep Reinforcement Learning](https://arxiv.org/abs/1908.03963) by Afshin OroojlooyJadid et al., 2019
