@@ -1,6 +1,7 @@
 # Interested Paper Collection
 
 ### Multi-agent Reinforcement Learning
+* [Probabilistic Recursive Reasoning for Multi-Agent Reinforcement Learning](https://openreview.net/forum?id=rkl6As0cF7) by Ying Wen et al., 2019 
 * [M3RL: Mind-aware Multi-agent Management Reinforcement Learning](https://arxiv.org/abs/1810.00147) by Tianmin Shu et al., 2019
 * [Feudal Multi-Agent Hierarchies for Cooperative Reinforcement Learning](https://arxiv.org/abs/1901.08492) by Sanjeevan Ahilan, et al., 2019
 * [Multi-Agent Adversarial Inverse Reinforcement Learning](http://proceedings.mlr.press/v97/yu19e/yu19e.pdf) by Lantao Yu et al., 2019
