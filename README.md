@@ -19,7 +19,10 @@
 ### Hierarchical Multi-Agent Reinforcement Learning
 * [Hierarchical multi-agent reinforcement learning](https://link.springer.com/article/10.1007/s10458-006-7035-4) by Mohammad Ghavamzadeh et al., 2006
 
-### Language learning through Multi-agent Communication
+### Cooperative Multi-agent through Communication
+* [Learning to Cooperate via an Attention-Based
+Communication Neural Network in Decentralized
+Multi-Robot Exploration](https://pdfs.semanticscholar.org/5d3c/1d601452caa5d4a1f92abd25d2e39e83fafb.pdf) by Mingyang Geng et al., 2019
 * [TarMAC: Targeted Multi-Agent Communication](https://arxiv.org/abs/1810.11187) by Abhishek Das et al., 2019
 * [Emergent Translation in Multi-Agent Communication](https://arxiv.org/abs/1710.06922) by Jason Lee et al., 2018
 * [Emergence of Grounded Compositional Language in Multi-Agent Populations](https://arxiv.org/abs/1703.04908) by Igor Mordatch et al., 2018
